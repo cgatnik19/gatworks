@@ -1,0 +1,24 @@
+Last login: Sun Nov 17 17:45:18 on ttys000
+charlies-air-2:~ cgatnik19$ <!DOCTYPE html>
+-bash: !DOCTYPE: event not found
+charlies-air-2:~ cgatnik19$ <html>
+-bash: syntax error near unexpected token `newline'
+charlies-air-2:~ cgatnik19$ <body>
+-bash: syntax error near unexpected token `newline'
+charlies-air-2:~ cgatnik19$ <h1>Hello World</h1>
+-bash: syntax error near unexpected token `newline'
+charlies-air-2:~ cgatnik19$ <p>I'm hosted with GitHub Pages.</p>
+> </body>
+> </html>
+
+
+
+
+
+
+
+
+
+
+
+
